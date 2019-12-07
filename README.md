@@ -1,3 +1,4 @@
-Python
-EDA
+Python, 
+EDA, 
 Machine learning
+Regression Analysis
